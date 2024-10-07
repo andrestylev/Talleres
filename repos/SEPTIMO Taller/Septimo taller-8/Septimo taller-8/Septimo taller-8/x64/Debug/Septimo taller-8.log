@@ -1,0 +1,4 @@
+﻿  8.cpp
+C:\Users\Andres\source\repos\Septimo taller-8\Septimo taller-8\8.cpp(5,55): warning C4101: 'minutosExtra': variable local sin referencia
+C:\Users\Andres\source\repos\Septimo taller-8\Septimo taller-8\8.cpp(5,46): warning C4101: 'xminuto': variable local sin referencia
+  Septimo taller-8.vcxproj -> C:\Users\Andres\source\repos\Septimo taller-8\Septimo taller-8\x64\Debug\Septimo taller-8.exe

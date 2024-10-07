@@ -1,0 +1,4 @@
+﻿  5.cpp
+C:\Users\Andres\source\repos\SEXTO Taller\Sexto taller - 5\Sexto taller - 5\5.cpp(6,34): warning C4101: 'totalHoras': variable local sin referencia
+C:\Users\Andres\source\repos\SEXTO Taller\Sexto taller - 5\Sexto taller - 5\5.cpp(6,46): warning C4101: 'minutos': variable local sin referencia
+  Sexto taller - 5.vcxproj -> C:\Users\Andres\source\repos\SEXTO Taller\Sexto taller - 5\x64\Debug\Sexto taller - 5.exe
